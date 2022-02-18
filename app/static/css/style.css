@@ -1,3 +1,18 @@
 body {
     font-family: Helvetica, "Helvetica Neue", sans-serif;
 }
+
+.green {
+    color: green;
+}
+.blue {
+    color:blue;
+}
+
+.red {
+    color:red;
+}
+
+.diffont {
+    font-family: "Brush Script MT", cursive;
+}
